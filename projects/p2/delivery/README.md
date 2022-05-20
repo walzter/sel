@@ -19,3 +19,16 @@ Cargo 2000 Freight Tracking & Tracing (https://archive.ics.uci.edu/ml/datasets/C
 Number of instances = 3942, Number of Attributes = 98
 
 
+# Running the Code:
+
+## Random Forest 
+-ds is the flag for the dataset size: small, medium, large. 
+
+python RandomForest.py -ds small
+
+## Decision Forest 
+
+python DecisionForest.py -ds small
+
+
+
