@@ -9,6 +9,7 @@ numba = "*"
 pandas = "*"
 matplotlib = "*"
 multiprocess = "*"
+termcolor = "*"
 
 [dev-packages]
 

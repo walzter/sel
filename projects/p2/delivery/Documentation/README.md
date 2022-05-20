@@ -23,10 +23,15 @@ Number of instances = 3942, Number of Attributes = 98
 
 # Running the Code:
 
+## Install Requirements 
+
+```python
+pip install -r /path/to/requirements.txt
+```
+
 ## Random Forest 
 -ds is the flag for the dataset size: small, medium, large. 
 -rt is the flag for the run-type: rf (RandomForest) or df (DecisionForest)
-
 
 
 ```python
